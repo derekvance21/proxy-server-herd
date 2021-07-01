@@ -1,0 +1,1 @@
+echo -ne "WHATSAT $1 $2 $3" | nc localhost $4
